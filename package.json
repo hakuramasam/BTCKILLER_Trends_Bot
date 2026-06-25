@@ -1,0 +1,19 @@
+{
+  "name": "btckiller-trends-bot",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AI agent for trading on Base and Solana with wallet integration, trend analysis, and token launch on pump.fun",
+  "workspaces": [
+    "frontend",
+    "backend",
+    "smart-contracts"
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "start": "turbo run start"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  }
+}
