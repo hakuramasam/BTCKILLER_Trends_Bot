@@ -13,7 +13,7 @@
     "@solana/web3.js": "^1.91.8",
     "dotenv": "^16.4.5",
     "cors": "^2.8.5",
-    "axios": "^1.7.2"
+    "axios": "^1.20.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
